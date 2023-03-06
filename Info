@@ -6,13 +6,13 @@
 <Meta name="viewport" content=width=device-width" />
 
 
-<title>Tasks you want done!<title/>
+<title>Tasks you want done!/title>
 
 <body>
 
-<H1>I'll:<H1>
+<H1>I'll:</H1>
 
-<H2>At the house<H2>
+<H2>At the house</H2>
 
 
 Clean     Windows
@@ -33,7 +33,7 @@ Change    Bedding
 
 
 
-<H3>In the garden<H3/>
+<H3>In the garden</H3>
       
 
 Pruning
