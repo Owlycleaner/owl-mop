@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+U<!DOCTYPE html>
 <html lang="en-US">
 
 <Head>
@@ -31,11 +31,13 @@
 
 <li>Change    Bedding
 
-
+<ul\>
 
 <H3>In the garden</H3>
       
 <H2>I'll:</H2>
+<br>
+<ul>
 
 <li>Prune
 
@@ -58,6 +60,8 @@
 <li>Rake
 
 <li>Hoe
+<li/>
+
 </body>
 
 </html>
